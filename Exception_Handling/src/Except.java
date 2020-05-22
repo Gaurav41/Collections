@@ -1,4 +1,4 @@
-
+// This is example of finally block
 public class Except {
 
 	
@@ -16,7 +16,7 @@ public class Except {
 			e.printStackTrace();
 		}finally
 		{
-			System.out.println("this block statement execited in any condition");
+			System.out.println("this block statement executed in any condition");
 		}
 	}
 }
